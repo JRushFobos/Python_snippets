@@ -1,0 +1,7 @@
+add for VS Code
+auto Close tag
+auto Copmlete tag
+live Server
+
+file index.html
+shift + 1 + Tab
